@@ -1,0 +1,13 @@
+.recipeName {
+    font-weight: bold;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.desc {
+    text-align: center;
+}
+
+.text {
+    color:darkslategray
+}
